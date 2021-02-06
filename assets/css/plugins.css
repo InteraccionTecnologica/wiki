@@ -1,0 +1,24 @@
+/*<!--
+<!-- Página desarrollada  por Interacción Tecnológica web's, subida y alojada en github para que los desarrolladores puedan ver el codigo y usarlo para test. En Inter Tech ayudamos los jóvenes que van empezando. Siguenos en Facebook: https://www.facebook.com/InteraccionTecnologica y github como:https://github.com/intertech20/-->
+*/
+
+/* == bootstrap == */
+@import url("plugins/bootstrap.min.css");
+
+/* == fontawesome == */
+@import url("plugins/fontawesome-all.min.css");
+
+/* == animate == */
+@import url("plugins/animate.css");
+
+/* == slick == */
+@import url("plugins/slick.css");
+
+/* == aos == */
+@import url("plugins/aos.css");
+
+/* == justifiedGallery == */
+@import url("plugins/justifiedGallery.min.css");
+
+/* == magnific popup == */
+@import url("plugins/magnific-popup.css");
